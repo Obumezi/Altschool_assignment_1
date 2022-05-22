@@ -20,7 +20,7 @@ input[type="submit"] {
   cursor: pointer;
 }
 
-.contact_container {
+#contact_container {
   border-radius: 5px;
   background-color: #f2f2f2;
   padding: 5px;
@@ -69,7 +69,7 @@ li {
 .dropdown {
   background-color: rgb(1, 139, 139);
   padding: 1em 0;
-  position: absolute; /*WITH RESPECT TO PARENT*/
+  position: absolute;
   display: none;
   border-radius: 8px;
   top: 35px;
