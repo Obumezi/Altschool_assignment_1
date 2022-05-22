@@ -14,7 +14,7 @@ body {
 
 .sign {
   padding-top: 40px;
-  color: blue;
+  color: teal;
   font-family: "Ubuntu", sans-serif;
   font-weight: bold;
   font-size: 23px;
@@ -73,7 +73,7 @@ form.form1 {
   cursor: pointer;
   border-radius: 5em;
   color: #fff;
-  background: blue;
+  background: teal;
   border: 0;
   padding-left: 40px;
   padding-right: 40px;
