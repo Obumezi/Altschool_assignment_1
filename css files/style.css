@@ -33,3 +33,10 @@ li {
   list-style: none;
 }
 
+img{
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  margin-right: 500px;
+  margin-top: 10px;
+}
